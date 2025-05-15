@@ -1,4 +1,4 @@
-# 👉 Template Laravel 12 pakai Tailwind 4
+# 👉 Template Laravel^12.14.1 pakai Tailwind^4.1.6
 
 Versi Laravel yang digunakan: [Laravel^12.14.1](https://laravel.com/docs/12.x)
 
